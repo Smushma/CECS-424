@@ -1,0 +1,8 @@
+Kevin Long 014065153
+
+The main difference in why the C and Haskell implementations of the same algorithm are different is because the paradigms are different.
+C is an imperative language while Haskell is a functional language. 
+As a result, C consists a sequence of commands which will be executed one after another. 
+Haskell consists of a "single expression," which is executed by evaluating the expression.
+Thus, Haskell functions do not have "side effects" that imperative languages have.
+Furethermore, variables in Haskell are immutable. Haskell is based on lambda calculus.

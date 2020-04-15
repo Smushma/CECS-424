@@ -1,0 +1,13 @@
+D:\BitBucket\cecs-424-07-spring-2020-assignment-4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.exe
+D:\BitBucket\cecs-424-07-spring-2020-assignment-4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.deps.json
+D:\BitBucket\cecs-424-07-spring-2020-assignment-4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.json
+D:\BitBucket\cecs-424-07-spring-2020-assignment-4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.dev.json
+D:\BitBucket\cecs-424-07-spring-2020-assignment-4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.dll
+D:\BitBucket\cecs-424-07-spring-2020-assignment-4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.pdb
+D:\BitBucket\cecs-424-07-spring-2020-assignment-4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csprojAssemblyReference.cache
+D:\BitBucket\cecs-424-07-spring-2020-assignment-4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csproj.CoreCompileInputs.cache
+D:\BitBucket\cecs-424-07-spring-2020-assignment-4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfoInputs.cache
+D:\BitBucket\cecs-424-07-spring-2020-assignment-4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfo.cs
+D:\BitBucket\cecs-424-07-spring-2020-assignment-4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.dll
+D:\BitBucket\cecs-424-07-spring-2020-assignment-4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.pdb
+D:\BitBucket\cecs-424-07-spring-2020-assignment-4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.genruntimeconfig.cache

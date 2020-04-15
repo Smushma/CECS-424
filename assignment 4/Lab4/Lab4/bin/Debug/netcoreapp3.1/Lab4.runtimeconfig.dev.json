@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Rolli\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Rolli\\.nuget\\packages"
+    ]
+  }
+}
